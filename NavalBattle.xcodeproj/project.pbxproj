@@ -33,6 +33,10 @@
 		5A2561AE260D1C6700DC361A /* Board.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Board.swift; sourceTree = "<group>"; };
 		5A3D5E86260D605E003C859E /* Fleet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fleet.swift; sourceTree = "<group>"; };
 		5A3D5E89260DB94A003C859E /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		5A3D5EA0260F9F9C003C859E /* NavalBattle2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavalBattle2.png; sourceTree = "<group>"; };
+		5A3D5EA1260F9F9C003C859E /* NavalBattle4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavalBattle4.png; sourceTree = "<group>"; };
+		5A3D5EA2260F9F9C003C859E /* NavalBattle3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavalBattle3.png; sourceTree = "<group>"; };
+		5A3D5EA3260F9F9C003C859E /* NavalBattle1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavalBattle1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +53,7 @@
 		5A256197260D024400DC361A = {
 			isa = PBXGroup;
 			children = (
+				5A3D5EA4260F9FC5003C859E /* Screenshots */,
 				5A2561A2260D024400DC361A /* NavalBattle */,
 				5A2561A1260D024400DC361A /* Products */,
 			);
@@ -72,6 +77,17 @@
 				5A3D5E89260DB94A003C859E /* Game.swift */,
 			);
 			path = NavalBattle;
+			sourceTree = "<group>";
+		};
+		5A3D5EA4260F9FC5003C859E /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				5A3D5EA3260F9F9C003C859E /* NavalBattle1.png */,
+				5A3D5EA0260F9F9C003C859E /* NavalBattle2.png */,
+				5A3D5EA2260F9F9C003C859E /* NavalBattle3.png */,
+				5A3D5EA1260F9F9C003C859E /* NavalBattle4.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
